@@ -1,0 +1,49 @@
+{
+  "clientsList":[
+
+  {
+    "id":"1",
+    "nom":"julie",
+    "age":"40",
+    "city":"sydney"
+  },
+
+  {
+    "id":"2",
+    "nom":"marc",
+    "age":"30",
+    "city":"new-york"
+  },
+
+  {
+    "id":"3",
+    "nom":"xavier",
+    "age":"48",
+    "city":"tokyo"
+  },
+
+  {
+    "id":"4",
+    "nom":"bertrand",
+    "age":"20",
+    "city":"point-a-pitre"
+  },
+
+
+  {
+    "id":"5",
+    "nom":"camille",
+    "age":"34",
+    "city":"rio"
+  },
+
+  {
+    "id":"6",
+    "nom":"juan",
+    "age":"60",
+    "city":"france"
+  }
+
+
+  ]
+}
